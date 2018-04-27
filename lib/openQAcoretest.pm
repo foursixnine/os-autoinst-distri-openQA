@@ -1,5 +1,6 @@
 package openQAcoretest;
 use base "basetest";
+use strict;
 use testapi;
 
 
