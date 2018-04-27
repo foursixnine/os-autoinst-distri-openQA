@@ -1,0 +1,3 @@
+[submodule "needles"]
+	path = needles
+	url = git@github.com:os-autoinst/os-autoinst-needles-openQA.git
